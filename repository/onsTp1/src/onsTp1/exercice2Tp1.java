@@ -1,9 +1,8 @@
 package onsTp1;
-
-import java.util.Scanner;
+import java.util.Scanner();
 
 public class exercice2Tp1 {
-	import java.util.Scanner();
+	
 	public static void main(String[] args) {
 
 		Scanner ons=new Scanner(System.in);
@@ -34,7 +33,5 @@ public class exercice2Tp1 {
 
 	}
 
-	 
-
-
 }
+
